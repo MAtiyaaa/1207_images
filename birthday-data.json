@@ -1,6 +1,13 @@
 {
-  "customSongs": [],
-  "timestamp": "2025-07-11T12:33:46.122Z",
+  "customSongs": [
+    {
+      "title": "Animal Crossing Theme Song",
+      "artist": "Animal Crossing",
+      "url": "https://www.youtube.com/watch?v=lI_C1Bjdqn4&list=RDlI_C1Bjdqn4&start_radio=1",
+      "emoji": "🌺"
+    }
+  ],
+  "timestamp": "2025-07-11T12:34:08.883Z",
   "contributor": "Birthday Website User",
   "note": "Photos are stored locally in browser session"
 }
