@@ -7,7 +7,14 @@
       "emoji": "🌺"
     }
   ],
-  "timestamp": "2025-07-11T12:34:08.883Z",
-  "contributor": "Birthday Website User",
-  "note": "Photos are stored locally in browser session"
+  "photos": [
+    {
+      "name": "photo_1752237879547_68xjmpt4s.jpg",
+      "path": "photos/photo_1752237879547_68xjmpt4s.jpg",
+      "download_url": "https://raw.githubusercontent.com/MAtiyaaa/1207_images/main/photos/photo_1752237879547_68xjmpt4s.jpg",
+      "uploadedAt": "2025-07-11T12:44:40.544Z"
+    }
+  ],
+  "timestamp": "2025-07-11T12:44:41.045Z",
+  "contributor": "Birthday Website User"
 }
